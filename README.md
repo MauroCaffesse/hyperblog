@@ -1,4 +1,4 @@
-# hyperblog :tw-1f4bb:
+# hyperblog
 Un blog increíble para el curso de [Git y GitHub](https://platzi.com/cursos/git-github/ "Git y GitHub") de [Platzi](https://platzi.com/home "Platzi")
 >El [curso de Git y GitHub de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria de tejido de lana sintética con Machine Learning.
 > - niñita
